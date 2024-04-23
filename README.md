@@ -10,7 +10,7 @@ This is a simple AI assistant created using Python. It can perform various tasks
 - Ability to perform calculations
 - Access to information through APIs
 
-# Usage
+## Usage
 - When the assistant is running, you can interact with it by speaking commands.
 - To ask a question, simply say the question and the assistant will try to provide an answer.
 - You can also ask the assistant to open any web browser like youtube etc.
